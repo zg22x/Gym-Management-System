@@ -62,13 +62,13 @@ This is a professional **Multi-tenant Gym SaaS & Subscription Management System*
   ![Dashboard Screenshot](screenshot/screenshot.png)
 
 * **شاشة اعدادات الجيم (SaaS Expiry Guard)**
-  ![Lockout Screen](screenshot/Screenshot1.png)
+  ![Lockout Screen](screenshot/screenshot1.png)
 
 * **بوابة المشتركين الذكية (Secure Client Portal)**
-  ![Portal Screen](screenshot/Screenshot2.png)
+  ![Portal Screen](screenshot/screenshot3.png)
 
 * **اضافة الاعضاء (Secure Client Portal)**
-  ![Portal Screen](screenshot/Screenshot4.png)
+  ![Portal Screen](screenshot/screenshot4.png)
 
 ---
 
