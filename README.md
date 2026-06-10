@@ -49,13 +49,6 @@ This is a professional **Multi-tenant Gym SaaS & Subscription Management System*
 
 ---
 
-## 🌐 المعاينة الحية والتجربة / Live Demo
-
-يمكنك معاينة لوحة التحكم وبوابة المشتركين مباشرة عبر الرابط التالي:
-👉 **[رابط المنصة الحي على Netlify / Live Link](https://azor-a.netlify.app/)**
-
----
-
 ## 📸 لقطات من داخل النظام / Screenshots
 
 * **لوحة التحكم الشاملة (Main SaaS Dashboard)**
@@ -86,4 +79,3 @@ This is a professional **Multi-tenant Gym SaaS & Subscription Management System*
 لطلب تفعيل النظام، الاستفسار، أو شراء رخص جديدة للمنصة، يرجى التواصل مباشرة عبر القنوات الرسمية للمطور:
 
 * **Telegram**: [👉 @zg22x](https://t.me/zg22x)
-* **Instagram**: [👉 fitnex_studio](https://instagram.com/fitnex_studio)
